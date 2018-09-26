@@ -1,0 +1,11 @@
+---
+title: "Welcome!"
+---
+
+My name is Leah Newman and I created this website for my Data Science class, STT3530. My website includes a few pictures that summarize me, general information about me, my resume, and some important links that I feel could be useful.
+
+<p style= "text-align: center;"><img src="Images/mountains.jpg" width=400><img src="Images/bcbspic.jpg"width=400></p>
+
+<p style= "text-align: center;"><img src="Images/brother.jpg" width=400><img src="Images/flag.jpg"width=400></p>
+
+

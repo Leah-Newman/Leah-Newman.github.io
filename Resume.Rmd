@@ -1,0 +1,59 @@
+---
+title: "Leah Newman"
+---
+
+newmanle@appstate.edu
+
+704-787-0635
+
+##***Education*** 
+* Appalachian State University, Boone, NC: 2015-2019
+* Bachelor of Science in Actuarial Sciences, Minor in Statistics
+* GPA: 3.25
+
+##***Exams***
+* Exam FM: Passed, Feb. 2018
+* Exam P: Sitting, Nov. 2018
+* VEE Credit Earned: Economics and Corporate Finance
+
+##***Experience***
+####**Blue Cross Blue Shield of NC** /Actuarial Analyst Intern, *Durham, NC* 
+* May 2018 - Present
+* Utilize EXCEL to complete multiple underwriting projects.
+* Use SQL and EXCEL (including VBA macros) to complete projects for the actuarial
+team/department.
+* Present project results to company staff.
+* Establish relationships with executives and employees within the company to learn the
+importance of leadership and initiative.
+
+####**Appalachian State Math Lab** /Tutor, *Boone, NC*
+* August 2017 - Present
+* Assist students in acquiring better understanding of weak areas within a subject or a
+subject as a whole.
+* Adapt to teaching styles to unique needs of students.
+
+####**Vector Marketing** /Branch Manager, *Salisbury, NC*
+* April 2017 - September 2017
+* Launched new branch.
+* Recruited, trained and led over 50 sales representatives to achieve over $65,000 of sales
+revenue.
+* Interviewed over 400 candidates in multiple group interview settings.
+* Completed all administrative and financial operations.
+* Created a business plan including sales and recruiting projections, budgets and goals.
+
+####**Vector Marketing** /Senior Field Sales Leader, *Charlotte, NC*
+* April 2015 - August 2018
+* Established a mastery of general sales skills by arranging and conducting over 200 direct
+sales presentations of Cutco Cutlery and received 5 promotions in 16 months.
+* Utilized negotiating and closing skills to find mutually beneficial solutions to customers’
+needs.
+* Designed and executed weekly and monthly schedules to achieve personal sales goals.
+
+##***Involvement***
+Actuarial Science Club 
+* Treasurer, April 2018 - Present
+National Society of Leadership and Success 
+Gamma Iota Sigma: International Risk Management Insurance and Actuarial Science Collegiate Fraternity
+
+##***Skills***
+* Computer-literate performer with knowledge in SQL, EXCEL, RMarkdown, RStudio, Java, and Microsoft Office Suite
